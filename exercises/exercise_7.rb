@@ -10,3 +10,5 @@ puts "Exercise 7"
 puts "----------"
 
 # Your code goes here ...
+
+@store1.employees.create!(last_name:"dingus" "Virani", hourly_rate: 280)
